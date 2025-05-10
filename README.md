@@ -4,7 +4,7 @@ An advanced file system monitoring tool designed to detect ransomware-like behav
 
 ## Technical Overview
 
-This monitor implements a multi-layered approach to ransomware detection by analyzing file system events and applying several detection algorithms concurrently, based on established research in cybersecurity [1][2][3] and insights from various technical documents [4-11].
+This monitor implements a multi-layered approach to ransomware detection by analyzing file system events and applying several detection algorithms concurrently, based on established research in cybersecurity [1][2][3] and insights from various technical documents [4-11]. The documents are stored in file DOCS_ directory.
 
 ### Core Detection Methods
 
