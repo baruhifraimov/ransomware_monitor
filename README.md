@@ -137,6 +137,6 @@ Key settings can be adjusted in `core/config.py`:
 
 [11] Cloudticity Blog. "Ransomware Detection." (From `blog-cloudticity-com-ransomware-detection....pdf`)
 
-## License
+## License :
 
 MIT License - Copyright (c) 2025
